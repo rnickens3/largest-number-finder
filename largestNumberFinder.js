@@ -8,8 +8,6 @@ Comments: Once I figured out how to access the variables in the arrays with a ne
 This was also the first time I used a nested loop. 
 I really needed to think where to push the largest number into the array. It needed to be in the right place!
 I used sub indexes to access variables in the array to createa a default largest number to avoid bugs with negative numbers.
-
-User Stories:
 */
 
 function largestOfAll(arr) {
